@@ -1,0 +1,20 @@
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\New folder.exe
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\New folder.deps.json
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\New folder.runtimeconfig.json
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\New folder.runtimeconfig.dev.json
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\New folder.dll
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\New folder.pdb
+C:\Users\MeminPC\Desktop\New folder\obj\Debug\netcoreapp3.1\New folder.csproj.AssemblyReference.cache
+C:\Users\MeminPC\Desktop\New folder\obj\Debug\netcoreapp3.1\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MeminPC\Desktop\New folder\obj\Debug\netcoreapp3.1\New folder.AssemblyInfoInputs.cache
+C:\Users\MeminPC\Desktop\New folder\obj\Debug\netcoreapp3.1\New folder.AssemblyInfo.cs
+C:\Users\MeminPC\Desktop\New folder\obj\Debug\netcoreapp3.1\New folder.csproj.CoreCompileInputs.cache
+C:\Users\MeminPC\Desktop\New folder\obj\Debug\netcoreapp3.1\New folder.dll
+C:\Users\MeminPC\Desktop\New folder\obj\Debug\netcoreapp3.1\New folder.pdb
+C:\Users\MeminPC\Desktop\New folder\obj\Debug\netcoreapp3.1\New folder.genruntimeconfig.cache
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\MeminPC\Desktop\New folder\obj\Debug\netcoreapp3.1\New folder.csproj.CopyComplete
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Threading.AccessControl.dll
+C:\Users\MeminPC\Desktop\New folder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Threading.AccessControl.dll
